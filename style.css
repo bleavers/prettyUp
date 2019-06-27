@@ -52,6 +52,13 @@ body
     color: white;
   }
 
+.jscolor {
+  margin-left: 520px;
+  width: 300px
+  
+  
+}
+
 /*style the search! button*/
 .btn {
   color: black;
